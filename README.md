@@ -38,8 +38,8 @@ Navigate to the zeus-desktop root directory, build and start the project.
 
 ### Testing
 
-  yarn run eslint .
-  yarn test
+    yarn run eslint .
+    yarn test
 
 
 ## Something Missing?
