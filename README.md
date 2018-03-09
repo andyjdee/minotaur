@@ -1,6 +1,7 @@
 # Minotaur
 Mining software for GPU mining.
 
+
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
@@ -9,7 +10,7 @@ Mining software for GPU mining.
 - [Build Project](#build-project)
   - [Run](#run)
   - [Testing](#testing)
-
+- [Something Missing?](#something-missing)
 
 
 ## Prerequisites
