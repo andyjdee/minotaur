@@ -1,0 +1,22 @@
+{
+  "env": {
+    "browser": true
+  },
+  "extends": [
+    "airbnb",
+    "plugin:import/electron"
+  ],
+  "parserOptions": {
+    "ecmaFeatures": {
+      "experimentalObjectRestSpread": true
+    }
+  },
+  "rules": {
+    "no-underscore-dangle": 0,
+    "new-cap": ["error",{"capIsNewExceptions":["$.Deferred"]}],
+    "no-param-reassign": [2,{"props": false}],
+    "react/jsx-no-bind": 0,
+    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+    "no-console": 0
+  }
+}
